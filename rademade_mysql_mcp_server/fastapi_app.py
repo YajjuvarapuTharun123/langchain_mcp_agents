@@ -75,3 +75,4 @@ async def query_agent(request: QueryRequest):
 @app.get("/health")
 def health_check():
     return {"status": "running"}
+
