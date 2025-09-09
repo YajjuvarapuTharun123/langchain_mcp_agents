@@ -19,7 +19,7 @@ The project has been **tested using Postman** for API requests.
 
 ## Prerequisites
 
-- Python 3.10+
+- Python 3.13
 - MySQL server
 - Environment variables configured in `.env`:
 
